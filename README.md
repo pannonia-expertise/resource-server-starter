@@ -14,7 +14,7 @@
 
 <br />
 
-**Contrubutors**
+**Contributors**
 <br />
 <ul>
 <li>Nikola Stanar @nstanar</li>
