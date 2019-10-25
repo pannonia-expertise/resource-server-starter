@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+autoconfigure.com.pannoniaexpertise.resourceserver.config.GlobalMethodSecurityConfig,\
+autoconfigure.com.pannoniaexpertise.resourceserver.config.ResourceServerConfig,\
+autoconfigure.com.pannoniaexpertise.resourceserver.config.PersistenceContext
+
