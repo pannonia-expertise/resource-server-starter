@@ -22,6 +22,7 @@
 <li>Nikola Antic</li>
 <li>Milena Lalic</li>
 <li>Nina Damjanovic</li>
+<li>Nebojsa Krtolica @NebojsaKrtolica</li>
 <li>Stevan Hartig @olesteva</li>
 </ul>
 
